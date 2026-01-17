@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-HomeStyle is a multi-category **home decor and home utility retailer** operating across cities, regions, store formats, and customer segments. This project analyses **customers, sales, products, payments, and operations** to provide a single analytical view of **revenue performance, profitability, customer behavior, and operational efficiency**. Using structured transactional data, the analysis supports **executive decision-making**, highlights **growth drivers**, and identifies **risk areas** across geography, loyalty tiers, product value bands, and store formats.
+HomeStyle is a multi-category **home decor and home utility retailer** operating across cities, regions, store formats, and customer segments. This project analyses **customers, sales, products, payments, and operations** to provide a single analytical view of **revenue performance, profitability, customer behavior, and operational efficiency**. Using structured transactional data, the analysis supports **executive decision-making**, highlights **growth drivers**, and identifies **risk areas** across geography, loyalty tiers, product value bands, and store formats. **This is a data analysis project for the retail industry.**
 
 
 ## Business Problem
