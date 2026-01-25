@@ -20,8 +20,11 @@ As HomeStyle expanded its product range and regional footprint, decision-making 
 
 ![image alt](https://github.com/ApoorvaIyerKcl/Homestyle-PowerBI/blob/36874212531048c291eb5eeaa09b077dfede6ffc/Dashboard%20Images/Dataset%20Table.png)
 
-
-## Dashboard Insights
+## Tools & Skills Used
+* Power BI: Data modeling, DAX, KPIs, visuals, bookmarks, navigation
+* Power Query (ETL): Data cleaning and transformations
+* DAX Studio: Performance tuning and query optimization
+* Data Storytelling: Turning dashboards into actionable insights## Dashboard Insights
 
 ### Executive Dashboard
 
