@@ -13,7 +13,9 @@ As HomeStyle expanded its product range and regional footprint, decision-making 
 * Power BI: Data modeling, DAX, KPIs, visuals, bookmarks, navigation
 * Power Query (ETL): Data cleaning and transformations
 * DAX Studio: Performance tuning and query optimization
-* Data Storytelling: Turning dashboards into actionable insights## Dashboard Insights
+* Data Storytelling: Turning dashboards into actionable insights
+
+## Dashboard Insights
 
 ## Dataset Overview
 * **Customers**: 4,800 rows × 6 columns
